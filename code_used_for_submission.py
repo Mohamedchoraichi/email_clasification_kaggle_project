@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Neural network classifier for 2EL1730.
-Adapted from the skeleton code provided in the course materials
-(skeleton_code_ml.py).
+
 """
 # NB: The runtime of this program is ~6 minutes on my machine.
 import pandas as pd
